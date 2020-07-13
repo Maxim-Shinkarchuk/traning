@@ -1,0 +1,13 @@
+.header {
+  padding: 60px 15px;
+  background-color: #ffffff;
+}
+.container {
+  width: 1600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.nav-box {
+  display: flex;
+}
